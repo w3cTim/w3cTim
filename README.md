@@ -24,6 +24,6 @@
 - Telegram：[https://t.me/w3cTim](https://t.me/w3cTim)
 - Site：[https://w3cTim.com](https://w3cTim.com)
 - <details id="about--WeChat">
-   <summary>微信</summary>
+   <summary>WeChat</summary>
   <img alt="Are you 18" title="Are you 18" src="https://webstack.oss-cn-shenzhen.aliyuncs.com/blog/20200803144805.png">
 </details>
