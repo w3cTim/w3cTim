@@ -1,6 +1,6 @@
 # 🥳 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Tim ٩(๑>◡<๑)۶
 
-[![](https://img.shields.io/badge/-@Libra11-%23181717?style=flat-square&logo=github)](https://github.com/w3cTim)
+[![](https://img.shields.io/badge/-@w3cTim-%23181717?style=flat-square&logo=github)](https://github.com/w3cTim)
 
 🏖 全栈开发者
 
@@ -27,5 +27,3 @@
    <summary>微信</summary>
   <img alt="Are you 18" title="Are you 18" src="https://webstack.oss-cn-shenzhen.aliyuncs.com/blog/20200803144805.png">
 </details>
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
