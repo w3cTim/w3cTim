@@ -12,7 +12,7 @@
 
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=w3cTim&count_private=true&show_icons=true&theme=radical)](https://github.com/w3cTim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3cTim&theme=radical)](https://github.com/w3cTim)
+<!--《[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3cTim&theme=radical)](https://github.com/w3cTim) -->
 
 ---
 
